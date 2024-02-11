@@ -9,9 +9,7 @@ Built using Node.js, npm, and Express.
 Clone the repository:
 
 Bash
-git clone https://github.com/Sandeepreddy2002/Node-Note-Taker.git
-Use code with caution. Learn more
-Navigate to the project directory:
+
 
 Bash
 cd Node-Note-Taker
